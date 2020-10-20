@@ -4,11 +4,13 @@
 ## Installing / Getting started
 
 ### Requirements
+Please install the following before starting the project.
 - [NodeJS](https://nodejs.org/en/download/)
 - [MongoDB](https://www.mongodb.com/try/download/community)
 
 
-### Backend
+
+### 1. Backend
 
 From root directory go to <b>/devbolt.api </b>
 
@@ -20,7 +22,7 @@ After all dependicies are installed, start the backend server using
 ```shell
 npm start
 ```
-### Frontend
+### 2. Frontend
 
 From root directory go to <b>/devbolt.web </b>
 
