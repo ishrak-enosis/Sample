@@ -1,7 +1,12 @@
-# Devbolt &middot;
+# Devbolt 
 
 
 ## Installing / Getting started
+
+### Requirements
+- [NodeJS](https://nodejs.org/en/download/)
+- [MongoDB](https://www.mongodb.com/try/download/community)
+
 
 ### Backend
 
