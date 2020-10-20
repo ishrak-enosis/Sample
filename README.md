@@ -5,7 +5,7 @@
 
 ### Backend
 
-From root directory go to /devbolt.api 
+From root directory go to <b>/devbolt.api </b>
 
 Install required server dependecies using the following terminal command.
 ```shell
